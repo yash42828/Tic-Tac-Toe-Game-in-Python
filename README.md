@@ -11,9 +11,9 @@ We are going to build a two-player tic-tac-toe game, which we can play in the GU
 - `python tictactoe.py`
 
 ## Screenshots
-![Image](./1.png)
-
 ![Image](./2.png)
+
+![Image](./1.png)
 
 Just follow☝️ me and Star⭐ my repository
 
